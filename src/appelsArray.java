@@ -9,6 +9,7 @@ public class appelsArray {
         int apples[][] = {{22,33}, {22,55}, {45,55}};
 
                change(apples);
+               ////jhgsdfjdgfdsg
 
 
     }
@@ -30,7 +31,7 @@ public class appelsArray {
 
             System.out.println("praveen ready to commit test ");
 
-            System.out.println("praveen ready to commit test brab=nch ");
+            System.out.println("praveen ready to commit test brab=nch  test ");
         }
 
 
