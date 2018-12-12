@@ -31,6 +31,9 @@ public class appelsArray {
             System.out.println("praveen ready to commit test brab=nch  test ");
 
             System.out.println("praveen ready to commit test brab=ne yeyey  test ");
+            
+            
+            System.out.println("praveen ready to pull test ");
 
         }
 
