@@ -14,7 +14,7 @@ public class AndhraaBank implements bank {
     @Override
     public void forgotPassword() {
         System.out.println("forgotPassword");
-        System.out.println("Andhrabank checkin");
+        System.out.println("Andhrabank checkin---");
     }
 
 
