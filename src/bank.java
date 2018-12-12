@@ -9,7 +9,7 @@ public interface bank {
 
     public void forgotPassword();
 
-
+/// test merging process
     // we can not create object of an interface
     // interface is obstract in nature
     // no method body
