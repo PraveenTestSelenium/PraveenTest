@@ -8,11 +8,8 @@ public class appelsArray {
 
         int apples[][] = {{22,33}, {22,55}, {45,55}};
 
-               change(apples);
-               ////jhgsdfjdgfdsg
-
-
-    }
+              change(apples);
+   }
 
 
     public void change(int dummy[][]){
