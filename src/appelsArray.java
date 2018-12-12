@@ -24,8 +24,11 @@ public class appelsArray {
             }
 
             System.out.println("praveen test ");
+
             System.out.println("praveen pull test ");
 
+
+            System.out.println("praveen ready to commit test ");
         }
 
 
