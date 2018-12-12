@@ -23,7 +23,8 @@ public class appelsArray {
                 System.out.println(dummy[r][c]);
             }
 
-            System.out.println("praveen test");
+            System.out.println("praveen test ");
+            System.out.println("praveen pull test ");
 
         }
 
