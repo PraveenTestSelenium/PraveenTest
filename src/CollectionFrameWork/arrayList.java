@@ -17,12 +17,18 @@ public class arrayList {
         al.add("Mamidi");
 
 
+
+
         al.add("Mamidi1");
         System.out.println(al.get(3));
 
         System.out.println(al.size());
 
 
+        System.out.println(al.size());
+
+
+        System.out.println(al.size());
 
 
 
