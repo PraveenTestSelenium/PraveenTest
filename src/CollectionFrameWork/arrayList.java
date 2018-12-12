@@ -29,6 +29,8 @@ public class arrayList {
 
 
         System.out.println(al.size());
+        
+             System.out.println(al.size());
 
 
 
