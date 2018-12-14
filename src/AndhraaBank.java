@@ -15,7 +15,7 @@ public class AndhraaBank implements bank {
     public void forgotPassword() {
         System.out.println("forgotPassword");
         System.out.println("Andhrabank checkin---");
-         System.out.println("Andhrabank checkin---");
+       
     }
 
 
