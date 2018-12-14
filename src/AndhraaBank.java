@@ -16,7 +16,7 @@ public class AndhraaBank implements bank {
         System.out.println("forgotPassword");
         System.out.println("Andhrabank checkin---");
         
-        System.out.println("Andhrabank checkin---merge test");
+        System.out.println("Andhrabank checkin---merge test  shiva");
     }
 
 
